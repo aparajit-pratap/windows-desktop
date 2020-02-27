@@ -3,6 +3,7 @@ using Castle.MicroKernel.Registration;
 using Castle.MicroKernel.SubSystems.Configuration;
 using Castle.Windsor;
 using MahApps.Metro.Controls.Dialogs;
+using ServiceReference;
 
 namespace BeanTraderClient.DependencyInjection
 {

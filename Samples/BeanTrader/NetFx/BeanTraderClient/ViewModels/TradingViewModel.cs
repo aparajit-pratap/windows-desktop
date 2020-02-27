@@ -1,5 +1,4 @@
-﻿using BeanTrader.Models;
-using BeanTraderClient.Controls;
+﻿using BeanTraderClient.Controls;
 using BeanTraderClient.Resources;
 using BeanTraderClient.Services;
 using MahApps.Metro.Controls.Dialogs;
@@ -14,6 +13,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
+using ServiceReference;
+using TradeOffer = ServiceReference.TradeOffer;
 
 namespace BeanTraderClient.ViewModels
 {

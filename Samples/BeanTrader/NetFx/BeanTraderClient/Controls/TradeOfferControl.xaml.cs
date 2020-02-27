@@ -3,6 +3,7 @@ using BeanTraderClient.Resources;
 using BeanTraderClient.ViewModels;
 using System.Windows;
 using System.Windows.Controls;
+using ServiceReference;
 
 namespace BeanTraderClient.Controls
 {

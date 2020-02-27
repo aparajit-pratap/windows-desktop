@@ -1,4 +1,4 @@
-﻿using BeanTrader.Models;
+﻿//using BeanTrader.Models;
 using BeanTraderClient.DependencyInjection;
 using Nito.AsyncEx;
 using System;
@@ -10,6 +10,7 @@ using System.ServiceModel.Security;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
+using ServiceReference;
 
 namespace BeanTraderClient.Services
 {

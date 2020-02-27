@@ -1,6 +1,7 @@
 ﻿using BeanTrader.Models;
 using System;
 using System.Threading.Tasks;
+using ServiceReference;
 
 namespace BeanTraderClient.ViewModels
 {
